@@ -1,0 +1,69 @@
+body 
+	{
+		padding: 3%;
+		background-color: gray;
+	}
+.pasto
+	{
+		background-color: green;
+		width: 1000px;
+		height: 600px;
+		padding: 30px;
+	}
+.cancha
+	{
+	border: 3px solid white;
+	width: 1000px;
+	height: 600px;
+	}
+.areachica
+	{
+	border: 3px solid white;
+	width: 150px;
+	height: 350px;
+	margin-top: 125px;
+	}
+.span {display: inline-block;}
+.right
+	{
+		float: right;
+		margin-right: -3px;
+	}
+.left
+	{
+		float: left;
+		margin-left: -3px;
+	}
+.central
+	{
+		border: 3px solid white;
+		width: 150px;
+		height: 150px;
+		border-radius: 150px;
+		margin: 0px;
+		margin-left: 300px;
+		margin-top: 225px;
+		float: center;
+	}
+img
+	{
+		position: absolute;
+		size: 24px 24px;
+	}
+.bola1
+	{
+		margin-top: 225px;
+		margin-left: 300px;
+	}
+.bola2
+	{
+		margin-bottom: 225px;
+		margin-right: 300px;
+	}
+.bola3
+	{
+		float: center;
+		margin-bottom: 50px;
+		margin-right: 120px;
+	}
+/* Inserta tu CSS aqui */
