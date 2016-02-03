@@ -40,7 +40,7 @@ img
 	{
 		border: 3px solid white;
 		width: 75px;
-		height: 175px;
+		height: 200px;
 		margin-top: 75px;
 		position: absolute;
 		float: left;
@@ -50,12 +50,11 @@ img
 	{
 		border: 3px solid white;
 		width: 75px;
-		height: 175px;
+		height: 200px;
 		margin-top: 75px;
 		position: absolute;
 		float: right;
-		margin-right: 4px;
-		right: 10px;
+		left: 983px;
 	}
 .span {display: inline-block;}
 .right
@@ -81,18 +80,18 @@ img
 	}
 .bola1
 	{
-		top: 225px;
-		left: 300px;
+		top: 350px;
+		left: 580px;
 	}
 .bola2
 	{
-		bottom: 225px;
-		right: 300px;
+		bottom: 290px;
+		right: 10px;
 	}
 .bola3
 	{
 		float: center;
-		bottom: 50px;
-		right: 120px;
+		bottom: 0px;
+		right: 10px;
 	}
 /* Inserta tu CSS aqui */
