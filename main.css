@@ -1,7 +1,20 @@
 body 
 	{
-		padding: 3%;
-		background-color: gray;
+	padding: 20px;
+	background-color: gray;
+	}
+hr
+	{
+		top: 50px;
+		left: 590px;
+		width: 1px;
+		height: 600px;
+		position: absolute;
+	}
+img
+	{
+		position: absolute;
+		size: 24px 24px;
 	}
 .pasto
 	{
@@ -12,16 +25,37 @@ body
 	}
 .cancha
 	{
-	border: 3px solid white;
-	width: 1000px;
-	height: 600px;
+		border: 3px solid white;
+		width: 1000px;
+		height: 600px;
 	}
 .areachica
 	{
-	border: 3px solid white;
-	width: 150px;
-	height: 350px;
-	margin-top: 125px;
+		border: 3px solid white;
+		width: 150px;
+		height: 350px;
+		margin-top: 125px;
+	}
+.areapenalizq
+	{
+		border: 3px solid white;
+		width: 75px;
+		height: 175px;
+		margin-top: 75px;
+		position: absolute;
+		float: left;
+		margin-left: -3px;
+	}
+.areapenalder
+	{
+		border: 3px solid white;
+		width: 75px;
+		height: 175px;
+		margin-top: 75px;
+		position: absolute;
+		float: right;
+		margin-right: 4px;
+		right: 10px;
 	}
 .span {display: inline-block;}
 .right
@@ -32,7 +66,7 @@ body
 .left
 	{
 		float: left;
-		margin-left: -3px;
+		margin-left: -2px;
 	}
 .central
 	{
@@ -45,25 +79,20 @@ body
 		margin-top: 225px;
 		float: center;
 	}
-img
-	{
-		position: absolute;
-		size: 24px 24px;
-	}
 .bola1
 	{
-		margin-top: 225px;
-		margin-left: 300px;
+		top: 225px;
+		left: 300px;
 	}
 .bola2
 	{
-		margin-bottom: 225px;
-		margin-right: 300px;
+		bottom: 225px;
+		right: 300px;
 	}
 .bola3
 	{
 		float: center;
-		margin-bottom: 50px;
-		margin-right: 120px;
+		bottom: 50px;
+		right: 120px;
 	}
 /* Inserta tu CSS aqui */
